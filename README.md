@@ -1,3 +1,3 @@
-# Portfolio Template
+# Portfolio
 
 ### React + TypeScript + Bootstrap
